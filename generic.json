@@ -1,0 +1,26 @@
+{
+    "name": "generic",
+    "entries": [
+        {
+            "tag": "Fire",
+            "description": "This tag sets things on fire",
+            "categories": {
+                "generic"
+            },
+            "alternatives": {
+                "fire",
+                "flame"
+            }
+        }
+        {
+            "tag": "Electricity",
+            "description": "Electricity",
+            "categories": {
+                "generic"
+            },
+            "alternatives": {
+                "shock"
+            }
+        }
+    ]
+}
