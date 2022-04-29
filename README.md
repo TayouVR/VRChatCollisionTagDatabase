@@ -57,4 +57,8 @@ The following sample file stores all available json json files with tags conform
 ```
 
 The editor extension will then take the path to such a registry file (can also be local) and use it to find any libraries, that conform tothe standard. 
-These libraries can then be browsed through right in unity
+These libraries can then be browsed through right in unity.
+
+
+### These specs are Prototype specs and the editor script as of this point is not functional
+https://github.com/TayouVR/VRChatCollisionTagExplorer
