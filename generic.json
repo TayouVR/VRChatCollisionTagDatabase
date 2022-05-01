@@ -1,5 +1,6 @@
 {
     "name": "generic",
+    "description": "General purpose tags, that might be useful for various random things",
     "entries": [
         {
             "tag": "Fire",
