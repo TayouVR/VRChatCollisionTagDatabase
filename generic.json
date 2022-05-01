@@ -5,23 +5,23 @@
         {
             "tag": "Fire",
             "description": "This tag sets things on fire",
-            "categories": {
+            "categories": [
                 "generic"
-            },
-            "alternatives": {
+            ],
+            "alternatives": [
                 "fire",
                 "flame"
-            }
+            ]
         }
         {
             "tag": "Electricity",
             "description": "Electricity",
-            "categories": {
+            "categories": [
                 "generic"
-            },
-            "alternatives": {
+            ],
+            "alternatives": [
                 "shock"
-            }
+            ]
         }
     ]
 }
