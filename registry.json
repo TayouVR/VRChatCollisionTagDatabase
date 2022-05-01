@@ -3,7 +3,6 @@
     "libraries": [
         {
             "name": "Generic",
-            "description": "General purpose tags, that might be useful for various random things",
             "url": "https://raw.githubusercontent.com/TayouVR/VRChatCollisionTagDatabase/main/generic.json"
         }
     ]
