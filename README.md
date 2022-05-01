@@ -9,6 +9,7 @@ The format in the various files is json based and structured like follows:
 ```json
 {
     "name": "generic",
+    "description": "General purpose tags, that might be useful for various random things",
     "entries": [
         {
             "tag": "Fire",
@@ -44,12 +45,10 @@ The following sample file stores all available json json files with tags conform
     "libraries": [
         {
             "name": "Generic",
-            "description": "General purpose tags, that might be useful for various random things",
             "url": "https://github.com/TayouVR/VRChatCollisionTagDatabase/Path/To/File"
         },
         {
             "name": "Fighting",
-            "description": "Fighting related tags",
             "url": "https://github.com/TayouVR/VRChatCollisionTagDatabase/Path/To/File"
         },
     ]
